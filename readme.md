@@ -2,7 +2,7 @@
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
-<bgcolor=red>
+<bgcolor=blue>
 	<br>
 	<br>
 	<div>
